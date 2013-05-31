@@ -1,4 +1,4 @@
-WSH Jscript alerting of jenkins in [blink(1)](http://thingm.com/products/blink-1.html)
+WSH JScript alerting of jenkins in [blink(1)](http://thingm.com/products/blink-1.html)
 ==================
 
 
