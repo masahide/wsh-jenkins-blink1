@@ -14,7 +14,7 @@ Create setting.json:
 	id:			"user-id",
 	password:	"your password",
 	url:		"http://hostname/jenkins/api/json", 
-	pattern:	/(_job_name|jobname2ljobname3...)/,
+	pattern:	/(_job_name|jobname2|jobname3...)/,
 	wait:		10
 }
 ```
